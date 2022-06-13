@@ -9,4 +9,4 @@
     🌐 HTML/CSS - [Aquis]
 
 
-💻 Developpeur pour The rive of Demon & Shinobi Life RP
+💻 Developpeur pour Shinobi Life RP
