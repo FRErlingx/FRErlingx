@@ -9,4 +9,4 @@
     🌐 HTML/CSS - [Aquis]
 
 
-💻 Developpeur pour Shinobi Life RP
+💻 Developpeur pour ***Shinobi Life RP*** & Fondateur de ***Gameflux*** !
