@@ -4,9 +4,9 @@
 
     🐍 Pyhon - [Apprentissage]
 
-    ⌨️ Skript MC - [Aquis]
+    ⌨️ Skript MC - [Acquis]
 
-    🌐 HTML/CSS - [Aquis]
+    🌐 HTML/CSS - [Acquis]
 
 
 💻 Developpeur pour ***Shinobi Life RP*** & Fondateur de ***Gameflux*** !
