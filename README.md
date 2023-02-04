@@ -7,6 +7,3 @@
     ⌨️ Skript MC - [Acquis]
 
     🌐 HTML/CSS - [Acquis]
-
-
-💻 Developpeur pour ***Shinobi Life RP*** & Fondateur de ***Gameflux*** !
