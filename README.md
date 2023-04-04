@@ -2,8 +2,8 @@
 
 📚 J'aime apprendre la programmation dans mon temps libre. Je suis développeur *freelance* et *bénovole* !
 
-    🐍 Pyhon - [Projet final]
+    🐍 Pyhon - [Acquis]
 
-    ⌨️ Skript MC - [Acquis]
+    🎮 C# & Unity - [Apprentissage]
 
     🌐 HTML/CSS - [Acquis]
