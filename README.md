@@ -5,5 +5,7 @@
     🐍 Pyhon - [Acquis]
 
     🎮 C# & Unity - [Apprentissage]
+    
+    🎮 Java - [Apprentissage]
 
     🌐 HTML/CSS - [Acquis]
