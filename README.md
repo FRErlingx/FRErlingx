@@ -6,6 +6,6 @@
 
     🎮 C# & Unity - [Apprentissage]
     
-    🎮 Java - [Apprentissage]
+    🎮 Java - [Fin Apprentissage]
 
     🌐 HTML/CSS - [Acquis]
