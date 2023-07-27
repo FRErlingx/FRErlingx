@@ -33,7 +33,7 @@
     </td>
     <td>
       <ul>
-        <li>📎 HTML, CSS</li>
+        <li>🌐 HTML, CSS</li>
         <li>🎮 Minecraft Mods and Plugins</li>
       </ul>
     </td>
