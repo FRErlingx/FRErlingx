@@ -6,9 +6,10 @@
 - 🖥️ I’m currently working on 2D RPG Game
   
 - 💬 If you want some help for **Python, Java, C# or HTML/CSS**, ask me
-  
-<a href="https://twitter.com/erlingx_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Erlingx" height="30" width="30" /></a>
-<a href="https://discord.gg/24mK6Yd7Eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="24mK6Yd7Eg" height="30" width="40" /></a>
+
+<a href="https://discord.gg/24mK6Yd7Eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/erlingx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://discord.gg/24mK6Yd7Eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ---
