@@ -16,9 +16,10 @@
 <p align="center"><img src="https://readme-stats.jonas-bernard.dev/api?username=FRErlingx&theme=dark&hide=issues&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff00" alt="Jonas' GitHub stats" /></p>
 <p align="center"><img src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=FRErlingx&layout=compact&theme=dark&hide=ruby&langs_count=8&card_width=300&hide_border=true&bg_color=ffffff00" alt="Jonas' Top Languages" /></p>
 
-<table>
+<table align="center">
   <tr>
     <th>💬 Languages</th>
+    <th>💡 Technologies</th>
     <th>📖 Want to learn</th>
   </tr>
   <tr>
@@ -40,19 +41,9 @@
       <ul>
         <li>📱 Android SDK</li>
         <li>🍡 Django</li>
-        <li>🧪 Flask</li>
         <li>🐦 Bootstrap</li>
-        <li>🆖 Angular</li>
-        <li>🙈 Vue.js</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>🏝️ Kotlin</li>
-        <li>🎯 Dart</li>
-        <li>🪅 Machine learning</li>
-        <li>💎 complex bash scripts</li>
-        <li>🃏 Julia</li>
+        <li>💻 C++</li>
+        <li>🌅 OpenGL/GLSL</li>
       </ul>
     </td>
   </tr>
