@@ -1,4 +1,4 @@
-<h1 align="center">Hey, i'am Erlingx</h1>  
+<h1 align="center">Hey, i'am Skyyteq</h1>  
 <h3 align="center">I'm a student who loves programming</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FRErlingx" alt="Erlingx" /> </p>  
