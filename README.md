@@ -1,51 +1,38 @@
-<h1 align="center">Hey, i'am Skyyteq</h1>  
-<h3 align="center">I'm a student who loves programming</h3>  
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FRErlingx" alt="Erlingx" /> </p>  
-  
-- 🖥️ I’m currently working on 2D RPG Game
-  
-- 💬 If you want some help for **Python, Java, C# or HTML/CSS**, ask me
+<h1 align="center">Hi 👋, I'm Skyyteq</h1>
+<h3 align="center">French informatique student.</h3>
 
-<a href="discord.com/a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/erlingx_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lilian.maffre/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frerlingx&label=Profile%20views&color=0e75b6&style=flat" alt="frerlingx" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frerlingx" alt="frerlingx" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ritoviktor" target="blank"><img src="https://img.shields.io/twitter/follow/ritoviktor?logo=twitter&style=for-the-badge" alt="ritoviktor" /></a> </p>
+
+- 🔭 I’m currently working on **video game**
+
+- 🌱 I’m currently learning **Cybersecurity**
+
+- 🤝 I’m looking for help with **C++ and UE5**
+
+- 💬 Ask me about **Python, Java, or HTML/CSS**
+
+- 📫 How to reach me **contact@skyyteq.fr**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/erlingx3645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erlingx3645" height="30" width="40" /></a>
+<a href="https://dev.to/skyyteq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skyyteq" height="30" width="40" /></a>
+<a href="https://twitter.com/ritoviktor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritoviktor" height="30" width="40" /></a>
 </p>
 
----
-<p align="center"><img src="https://streak-stats.demolab.com?user=FRErlingx&theme=nord&hide_border=true&border_radius=2.5&date_format=j%20M%5B%20Y%5D&background=DDDDDD00)](https://git.io/streak-stats" alt="GitHub Streak" /></p>
-<p align="center"><img src="https://readme-stats.jonas-bernard.dev/api?username=FRErlingx&theme=dark&hide=issues&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff00" alt="Jonas' GitHub stats" /></p>
-<p align="center"><img src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=FRErlingx&layout=compact&theme=dark&hide=ruby&langs_count=8&card_width=300&hide_border=true&bg_color=ffffff00" alt="Jonas' Top Languages" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<table align="center">
-  <tr>
-    <th>💬 Languages</th>
-    <th>💡 Technologies</th>
-    <th>📖 Want to learn</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>🐍 Python (good)</li>
-        <li>📜 Javascript (learning)</li>
-        <li>☕️ Java (learning)</li>
-        <li>🎮 C# (OK)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>🌐 HTML, CSS</li>
-        <li>🎮 Minecraft Mods and Plugins</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>📱 Android SDK</li>
-        <li>🍡 Django</li>
-        <li>🐦 Bootstrap</li>
-        <li>💻 C++</li>
-        <li>🌅 OpenGL/GLSL</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frerlingx&show_icons=true&locale=en&layout=compact" alt="frerlingx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frerlingx&show_icons=true&locale=en" alt="frerlingx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FRErlingx&" alt="frerlingx" /></p>
